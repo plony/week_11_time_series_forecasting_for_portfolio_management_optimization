@@ -1,0 +1,18 @@
+# Data handling and analysis
+pandas
+numpy
+yfinance
+
+# Statistical modeling
+statsmodels
+pmdarima
+
+# Deep learning
+tensorflow
+
+# Portfolio optimization
+pyportfolioopt
+
+# Visualization
+matplotlib
+seaborn

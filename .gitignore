@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / dynamically generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE-specific files
+.idea/
+.vscode/
+.history/
+*.sublime-project
+*.sublime-workspace
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Data directories (raw and processed data should not be committed)
+data/raw/
+data/processed/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Models
+# You might want to save your trained models, so be selective here.
+# For this challenge, we'll ignore them in a 'models/' directory.
+# However, if you want to commit them, you can remove or comment out this line.
+models/
+
+# Other temporary files
+*~
